@@ -1,0 +1,15 @@
+9da66b87fbe37e051ed194e259031725 *DESCRIPTION
+534cc004850717dc543aeb1681c51b9e *NAMESPACE
+03928816e3aff35a84473218a51e651a *R/GetGraph.R
+460cfcde1d93a8f123fac63e8a42a01c *R/HGraph.R
+ad6de210926f859ee56e88e40e73b921 *R/edge.R
+4ed5527ea42afc85b743e9aa04ceb857 *README.md
+5114a5668400177a0eabab2a4f2f9929 *build/vignette.rds
+07d6a1319669f9764e5ed0e196324148 *data/edge.rda
+40bdf0866c67357b0b2b342b7b97503f *inst/doc/HGraph.R
+f30a551205a02ce1767fe16dc551a3a7 *inst/doc/HGraph.Rmd
+a1522e6ac32bf06f42f0d09909edf455 *inst/doc/HGraph.html
+7a3e6a628f0e8d72193c26be03384ca7 *man/edge.Rd
+0be9234a49046bcf399c91bd23414ab7 *man/get_graph_info.Rd
+8ec7d6d9310438ff13ce298b99dd92cf *tests/testthat/test_GetGraph.R
+f30a551205a02ce1767fe16dc551a3a7 *vignettes/HGraph.Rmd
